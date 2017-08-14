@@ -3,9 +3,12 @@ My resume!
 
 # Changelog
 
-#### Aug 13 2017
+#### Aug 13, 14 2017
  - Updated GPA after Summer 2017
- - Revamped design (may undergo further changes)
+ - Added honors
+ - Revamped design
+ - Revamped projects and skills section
+ - Reworded descriptions
 
 #### May 27 2017
  - Updated role at HackCU to Director of Technology
