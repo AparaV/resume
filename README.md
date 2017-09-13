@@ -3,6 +3,11 @@ My resume!
 
 # Changelog
 
+#### Sep 12 2017
+ - Added Research Assistant to Experience section
+ - Explanation on what SSCE means to non-Indians
+ - Bullet points in the Experience section
+
 #### Aug 13, 14 2017
  - Updated GPA after Summer 2017
  - Added honors
