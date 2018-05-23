@@ -3,6 +3,12 @@ My resume!
 
 # Changelog
 
+#### May 22 2018
+ - Replaced projects with awards
+ - Added course assistant experience
+ - Added research experience
+ - Updated GPA after Spring 2018
+
 #### Sep 12 2017
  - Added Research Assistant to Experience section
  - Explanation on what SSCE means to non-Indians
