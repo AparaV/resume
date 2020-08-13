@@ -3,6 +3,9 @@ My resume!
 
 # Changelog
 
+#### June 25 2020
+- Update after graduating for MSFT internship
+
 #### May 22 2018
  - Replaced projects with awards
  - Added course assistant experience
